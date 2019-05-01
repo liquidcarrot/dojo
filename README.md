@@ -1,2 +1,1 @@
-# dojo
-The Carrot 🥕 Dojo ⛩️
+# 🥕 The Liquid Carrot Dojo ⛩️
